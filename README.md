@@ -1,2 +1,2 @@
 # DDND
-Data Science NanoDegree Projects
+Data Science Projects to Predict Donors
